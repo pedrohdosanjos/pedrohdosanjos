@@ -1,12 +1,12 @@
-# 👋 Hi! I'm Pedro Henrique Góes dos Anjos
+# Hi! I'm Pedro Henrique Góes dos Anjos
 
-🌟 Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
-## 🚀 About Me
+## About Me
 
-- 💻 Developer passionate about technology and artificial intelligence.  
-- 🔍 Enthusiast in data analysis, data science, machine learning, and AI.  
-- 🎯 Always learning, exploring new technologies, and solving problems with code.  
+- Developer passionate about technology and artificial intelligence.  
+- Enthusiast in data analysis, data science, machine learning, and AI.  
+- Always learning, exploring new technologies, and solving problems with code.  
 
 ## 🛠️ Technologies & Tools
 
