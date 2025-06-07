@@ -4,9 +4,9 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- Developer passionate about technology and artificial intelligence.  
-- Enthusiast in data analysis, data science, machine learning, and AI.  
-- Always learning, exploring new technologies, and solving problems with code.  
+- Developer passionate about data analysis and artificial intelligence.
+- Enthusiast in data science, machine learning, and AI, with a focus on solving real-world problems through data-driven insights.
+- Always learning, exploring new technologies, and applying analytical skills to uncover valuable patterns in data.
 
 ## 🛠️ Technologies & Tools
 
